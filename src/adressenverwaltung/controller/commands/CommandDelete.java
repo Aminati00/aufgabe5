@@ -13,7 +13,7 @@ import java.util.Stack;
 
 /**
  *
- * @author marco
+ * @author daniel
  */
 public class CommandDelete implements CommandInterface
 {

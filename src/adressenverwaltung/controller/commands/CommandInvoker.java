@@ -11,7 +11,7 @@ import java.util.Stack;
 
 /**
  *
- * @author marco
+ * @author daniel
  * Invoker für Command Design Pattern
  * 
  */

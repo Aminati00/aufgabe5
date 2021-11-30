@@ -12,7 +12,7 @@ import java.util.Stack;
 
 /**
  *
- * @author marco
+ * @author daniel
  */
 public class CommandAdd implements CommandInterface
 {

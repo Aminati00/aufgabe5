@@ -15,7 +15,7 @@ import java.awt.event.ActionListener;
 
 /**
  *
- * @author marco
+ * @author daniel
  */
 
 public class UndoController implements ActionListener

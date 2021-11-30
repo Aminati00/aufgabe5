@@ -7,7 +7,7 @@ package adressenverwaltung.controller.commands;
 
 /**
  *
- * @author marco
+ * @author daniel
  */
 public interface CommandInterface
 {

@@ -41,7 +41,7 @@ public class AdressenverwaltungModel extends AbstractTableModel
     adressEintraegeNamen.add("Telefon");
     adressEintraegeDaten.add("122345");
     daten.add(adressEintraegeDaten);
-    System.out.println("Hello");
+    //System.out.println("Hello");
     p = Preferences.userRoot().node(getClass().getName());
   }
 

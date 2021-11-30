@@ -11,7 +11,7 @@ import adressenverwaltung.view.AdressenverwaltungView;
 
 /**
  *
- * @author marco
+ * @author daniel
  */
 public class CommandUndo implements CommandInterface
 {
